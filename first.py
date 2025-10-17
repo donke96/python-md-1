@@ -148,7 +148,8 @@ style.configure("Treeview.Heading",
                 foreground="white",
                 font=("Times New Roman", 12, "bold"))
 style.map("Treeview",
-          background=[("selected", "#FFF58A")])
+          background=[("selected", "#FFF58A")],
+          foreground=[("selected", "#000000")])
 
 #Tabula/table
 columns = ("ISBN", "Nosaukums", "Autors", "Cena", "Daudzums")
