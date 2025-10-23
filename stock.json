@@ -1,0 +1,38 @@
+{
+    "9780765377135": {
+        "title": "Mistborn #1",
+        "author": "Sanderson Brandon",
+        "price": 19.99,
+        "quantity": 12
+    },
+    "9780007351053": {
+        "title": "The Picture of Dorian Gray",
+        "author": "Wilde Oscar",
+        "price": 3.5,
+        "quantity": 3
+    },
+    "9780356519142": {
+        "title": "Emily Wilde's Encyclopaedia of Faeries",
+        "author": "Fawcett Heather",
+        "price": 10.95,
+        "quantity": 5
+    },
+    "9781471407277": {
+        "title": "The Cruel Prince",
+        "author": "Black Holly",
+        "price": 11.95,
+        "quantity": 1
+    },
+    "9781408891384": {
+        "title": "The Song of Achilles",
+        "author": "Madeline Miller",
+        "price": 9.9,
+        "quantity": 4
+    },
+    "9781908670427": {
+        "title": "Soviet Milk",
+        "author": "Ikstena Nora",
+        "price": 15.95,
+        "quantity": 15
+    }
+}
